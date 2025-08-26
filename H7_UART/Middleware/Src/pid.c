@@ -1,4 +1,4 @@
-#include "pid.h"
+#include "..\Inc\pid.h"
 
 
 float kp = 1.0 , ki = 0.1, kd = 0.01; // PID参数

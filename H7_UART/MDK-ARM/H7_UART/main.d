@@ -52,6 +52,7 @@ h7_uart\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
 h7_uart\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
 h7_uart\main.o: ../Core/Inc/i2c.h
 h7_uart\main.o: ../Core/Inc/memorymap.h
+h7_uart\main.o: ../Core/Inc/tim.h
 h7_uart\main.o: ../Core/Inc/usart.h
 h7_uart\main.o: ../Core/Inc/gpio.h
 h7_uart\main.o: ../Middleware/Inc/MYGPIO.h
