@@ -1,7 +1,7 @@
 #ifndef PID_H
 #define PID_H
 
-#include "main.h"
-
+#include "encoder.h"
+#include "motor.h"
 
 #endif

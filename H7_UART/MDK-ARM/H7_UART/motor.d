@@ -1,6 +1,5 @@
 h7_uart\motor.o: ..\Middleware\Src\motor.c
 h7_uart\motor.o: ../Middleware/Inc/motor.h
-h7_uart\motor.o: ../Core/Inc/tim.h
 h7_uart\motor.o: ../Core/Inc/main.h
 h7_uart\motor.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
 h7_uart\motor.o: ../Core/Inc/stm32h7xx_hal_conf.h
@@ -38,3 +37,4 @@ h7_uart\motor.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h
 h7_uart\motor.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h
 h7_uart\motor.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h
 h7_uart\motor.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
+h7_uart\motor.o: ../Core/Inc/tim.h

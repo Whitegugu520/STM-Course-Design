@@ -2,12 +2,14 @@
 #define ENCODER_H
 
 #include "main.h"
-#icnlude "tim.h"
 
-extern int Encoder1_value; //编码器值
 
-void Encoder_Init(void); //启动编码器
-void Encoder_Update(void); //更新编码器
+extern TIM_HandleTypeDef htim2;
+extern TIM_HandleTypeDef htim3;
+extern int Encoder1_value; 
+
+void Encoder_Init(void); 
+void Encoder_Update(void);
 
 
 
