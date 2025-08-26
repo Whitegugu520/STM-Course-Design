@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "name": "stm",
+            "path": "../../../../Users/20520/Documents/PlatformIO/Projects/stm"
+        },
+        {
+            "name": "esp",
+            "path": "../../../../Users/20520/Documents/PlatformIO/Projects/esp"
+        },
+        {
+            "name": "stm32",
+            "path": "../../../../Users/20520/Documents/PlatformIO/Projects/stm32"
+        },
+        {
+            "name": "stm32f4",
+            "path": "../../../../Users/20520/Documents/PlatformIO/Projects/stm32f4"
+        }
+    ],
+    "settings": {},
+    "extensions": {}
+}

@@ -37,3 +37,4 @@ keshe\main.o: ../BSP/font.h
 keshe\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 keshe\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 keshe\main.o: ../BSP/control.h
+keshe\main.o: ../BSP/capture.h

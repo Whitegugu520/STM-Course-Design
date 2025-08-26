@@ -30,3 +30,4 @@ keshe\capture.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
 keshe\capture.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
 keshe\capture.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 keshe\capture.o: ../Core/Inc/gpio.h
+keshe\capture.o: ../Core/Inc/tim.h
