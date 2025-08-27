@@ -30,6 +30,7 @@
 #include "ZDTcontrol.h"
 #include "string.h"
 #include "stdio.h"
+#include "pid.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -176,10 +177,7 @@ void ZDT_control( void *pvParameters )
 {
   for(;;)
   {
-    ZDT_Control_speed(0x01,0x01,speed_Control,acc_Control);
-    vTaskDelay(1); // 延时1秒
-    ZDT_Control_move(0x01 );
-    vTaskDelay(1000); // 延时1秒
+    
   }
 }
 
